@@ -5,3 +5,5 @@ print("from b2")
 
 
 
+
+print("from b1")
